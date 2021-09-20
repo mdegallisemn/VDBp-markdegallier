@@ -1,0 +1,1 @@
+Apartment(ID, Tenant_ID, SqFt, Beds, etc)
